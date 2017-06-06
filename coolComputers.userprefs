@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{E0F83CF3-D704-4D6A-8F8C-29F797891A68}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="coolComputers/Store.cs">
+    <Files>
+      <File FileName="coolComputers/Program.cs" Line="1" Column="1" />
+      <File FileName="coolComputers/Customer.cs" Line="1" Column="1" />
+      <File FileName="coolComputers/Orders.cs" Line="1" Column="1" />
+      <File FileName="coolComputers/Product.cs" Line="1" Column="1" />
+      <File FileName="coolComputers/Store.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="coolComputers" expanded="True">
+            <Node name="coolComputers" expanded="True">
+              <Node name="Store.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.coolComputers PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
